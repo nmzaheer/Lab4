@@ -42,7 +42,7 @@ The stator airgap characteristic length is made smaller to give a better picture
     T_stator = 98.2271   T_stator = 99.616
     T_mb =  97.4709      T_mb = 97.9595
 
-3-6 T_rotor = 49.1808    T_rotor = 48.2797
-    T_rotor = 96.0055    T_rotor = 96.5586
-    T_rotor = 136.896    T_rotor = 144.839
+3-6 T_rotor = 49.1808    Flux = 0.01385    T_rotor = 48.2797    Flux = 0.01466
+    T_rotor = 96.0055    Flux = 0.0133     T_rotor = 96.5586    Flux = 0.01466
+    T_rotor = 136.896    Flux = 0.01245    T_rotor = 144.839    FLux = 0.01466
     
